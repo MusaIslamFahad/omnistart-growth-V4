@@ -155,9 +155,9 @@ export function Services() {
           <div>
             <h4 className="font-display text-lg font-semibold sm:text-xl">What we deliberately don't do</h4>
             <p className="mt-2 text-sm leading-relaxed text-[var(--text-secondary)]">
-              We build the <strong className="text-[var(--text-primary)]">software</strong> that tracks your inventory — not the shelf management.
-              We automate the <strong className="text-[var(--text-primary)]">workflows</strong> around HR, payroll and legal — onboarding checklists,
-              reminders, scheduling — and connect you with trusted partners for the licensed work itself. Honest scope, always.
+              We build the <strong className="text-[var(--text-primary)]">software</strong> that tracks your inventory; not the shelf management.
+              We automate the <strong className="text-[var(--text-primary)]">workflows</strong> around HR, payroll and legal onboarding checklists,
+              reminders, scheduling and connect you with trusted partners for the licensed work itself. Honest scope, always.
             </p>
           </div>
         </GlassCard>
