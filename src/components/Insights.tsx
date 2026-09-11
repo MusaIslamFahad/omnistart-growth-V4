@@ -15,7 +15,7 @@ const posts = [
     tag: "Grow",
     hue: "tint-lime",
     title: "What makes an AI support agent actually trustworthy",
-    excerpt: "RAG grounding, escalation paths, and tone matching — the architecture decisions behind an agent customers don't hate.",
+    excerpt: "RAG grounding, escalation paths, and tone matching - the architecture decisions behind an agent customers don't hate.",
     date: "Jul 2026",
     image: "https://images.pexels.com/photos/8092507/pexels-photo-8092507.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
   },
