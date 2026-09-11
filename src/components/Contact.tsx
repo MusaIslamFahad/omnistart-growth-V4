@@ -43,7 +43,7 @@ export function Contact() {
           Ready to hand off the rest?
         </h2>
         <p className="mt-4 text-[var(--text-secondary)]">
-          Tell us where your business is today — we'll show you exactly where to start.
+          Tell us where your business is today. We'll show you exactly where to start.
         </p>
       </Reveal>
 
@@ -143,7 +143,7 @@ export function Contact() {
               </span>
               <div>
                 <p className="text-xs text-[var(--text-secondary)]">Based in</p>
-                <p className="text-sm font-semibold">Austin, TX — working with clients everywhere</p>
+                <p className="text-sm font-semibold">Austin, TX - working with clients everywhere</p>
               </div>
             </div>
             <a
