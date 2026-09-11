@@ -14,8 +14,8 @@ const tiers = [
     icon: Rocket,
     accent: "teal",
     problem: "\u201cI don't have a professional online presence yet.\u201d",
-    desc: "Your foundation — built fast, built right, built to grow with you.",
-    items: ["Website design & development", "Brand identity — logo, voice, visual system", "Domain, hosting, CRM & booking/payment setup"],
+    desc: "Your foundation - built fast, built right, built to grow with you.",
+    items: ["Website design & development", "Brand identity - logo, voice, visual system", "Domain, hosting, CRM & booking/payment setup"],
     cta: "Start with Launch",
   },
   {
@@ -25,7 +25,7 @@ const tiers = [
     icon: TrendingUp,
     accent: "lime",
     problem: "\u201cI have a business but no consistent leads or fast customer response.\u201d",
-    desc: "Where dependency begins — leads and support flow through systems we own and run.",
+    desc: "Where dependency begins - leads and support flow through systems we own and run.",
     items: ["AI customer support agent (trained on your business)", "Marketing automation & lead generation", "Content & social presence support"],
     cta: "Grow with OG",
     featured: true,
@@ -62,7 +62,7 @@ export function Services() {
           One partner. Three layers. <span className="text-gradient">One path forward.</span>
         </h2>
         <p className="mt-4 text-[var(--text-secondary)]">
-          We don't sell a menu of services — we sell outcomes, delivered as layered tiers. Start with Launch. Grow when ready. Scale when it hurts.
+          We don't sell a menu of services. We sell outcomes, delivered as layered tiers. Start with Launch. Grow when ready. Scale when it hurts.
         </p>
         </Reveal>
       </div>
