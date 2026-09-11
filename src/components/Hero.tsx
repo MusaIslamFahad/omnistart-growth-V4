@@ -62,7 +62,7 @@ export function Hero() {
           transition={{ duration: 0.7, delay: 0.2 }}
           className="mx-auto mt-6 max-w-2xl text-balance text-base text-[var(--text-secondary)] sm:text-lg"
         >
-          Website, brand, AI customer support, marketing automation, and operations dashboards —
+          Website, brand, AI customer support, marketing automation, and operations dashboards
           built and maintained by one partner. One system. One invoice.
         </motion.p>
 
