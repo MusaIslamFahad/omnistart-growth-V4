@@ -11,7 +11,7 @@ interface Testimonial {
 }
 
 const rowOne: Testimonial[] = [
-  { name: "Marcus Whitfield", role: "Founder, Iron Line Fitness", quote: "Omnistart Growth didn't just build our website — they became our tech department. Our AI agent answers customer questions at 2am, and I finally sleep.", hue: "teal" },
+  { name: "Marcus Whitfield", role: "Founder, Iron Line Fitness", quote: "Omnistart Growth didn't just build our website. They became our tech department. Our AI agent answers customer questions at 2am, and I finally sleep.", hue: "teal" },
   { name: "Dana Reyes", role: "Marlin & Co. Boutique", quote: "They wired together everything we needed in one system. No more logging into five different tools before 9am.", hue: "violet" },
   { name: "Priya Nandan", role: "Havenwood Cafe", quote: "Launch tier had us live and taking bookings in three weeks. It felt less like hiring a vendor and more like gaining a co-founder.", hue: "lime" },
   { name: "Tomás Herrera", role: "Herrera Legal Group", quote: "The ops dashboard alone saved us 20 hours a week. Our paralegals finally trust the numbers on the screen.", hue: "coral" },
@@ -19,9 +19,9 @@ const rowOne: Testimonial[] = [
 
 const rowTwo: Testimonial[] = [
   { name: "Aisha Cole", role: "Cole Skincare", quote: "One invoice, one team, zero chasing vendors. Exactly what we needed to actually focus on the product again.", hue: "coral" },
-  { name: "Ben Okafor", role: "Okafor Logistics", quote: "Their AI support agent feels like a real team member — it escalates the right things and handles the rest quietly.", hue: "lime" },
+  { name: "Ben Okafor", role: "Okafor Logistics", quote: "Their AI support agent feels like a real team member. It escalates the right things and handles the rest quietly.", hue: "lime" },
   { name: "Sofia Marchetti", role: "Marchetti Home Goods", quote: "We went from a spreadsheet-run warehouse to a real inventory system in under a month, with zero downtime.", hue: "teal" },
-  { name: "Jordan Ellis", role: "Ellis & Row Studio", quote: "Every system they built is ours to keep. No black boxes, no ransom — just infrastructure that works.", hue: "violet" },
+  { name: "Jordan Ellis", role: "Ellis & Row Studio", quote: "Every system they built is ours to keep. No black boxes, no ransom; just infrastructure that works.", hue: "violet" },
 ];
 
 function TestimonialCard({ t }: { t: Testimonial }) {
