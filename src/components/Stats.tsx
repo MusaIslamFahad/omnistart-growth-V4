@@ -64,7 +64,7 @@ export function Stats() {
               A local service business went from voicemail to a 24/7 AI front desk.
             </h3>
             <p className="max-w-xl text-sm leading-relaxed text-white/75 sm:text-base">
-              After onboarding onto Grow, missed calls dropped 92% and booked jobs rose 3.4x in the first quarter —
+              After onboarding onto Grow, missed calls dropped 92% and booked jobs rose 3.4x in the first quarter -
               without hiring a single new receptionist.
             </p>
             <a href="#work" className="flex w-fit items-center gap-2 text-sm font-semibold text-white underline-offset-4 hover:underline">
