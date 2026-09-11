@@ -6,7 +6,7 @@ import type { Hue } from "./ui/hueStyles";
 const steps: { number: string; icon: typeof PhoneCall; title: string; copy: string; hue: Hue }[] = [
   { number: "01", icon: PhoneCall, title: "Discovery Call", copy: "We map your business, your bottlenecks, and where you sit on the Launch → Grow → Scale path.", hue: "teal" },
   { number: "02", icon: FileSearch, title: "System Blueprint", copy: "You get a concrete plan: what we build, what it replaces, and how it connects to everything else.", hue: "lime" },
-  { number: "03", icon: Wrench, title: "Build & Deploy", copy: "Our team builds your site, brand, agents, and automations on productized systems — customized to you.", hue: "coral" },
+  { number: "03", icon: Wrench, title: "Build & Deploy", copy: "Our team builds your site, brand, agents, and automations on productized systems - customized to you.", hue: "coral" },
   { number: "04", icon: Gauge, title: "Run & Optimize", copy: "We operate and improve the systems continuously. You focus on the business; we handle the infrastructure.", hue: "violet" },
 ];
 
