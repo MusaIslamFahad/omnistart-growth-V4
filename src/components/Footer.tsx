@@ -32,7 +32,7 @@ export function Footer() {
                 <span className="font-display text-lg font-semibold">Omnistart Growth</span>
               </div>
               <p className="max-w-xs text-sm text-ink-100/70">
-                A full-stack business operations agency. You focus on your business — we run everything else.
+                A full-stack business operations agency. You focus on your business; we run everything else.
               </p>
               <a
                 href="#contact"
