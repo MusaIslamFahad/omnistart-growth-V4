@@ -8,9 +8,9 @@ import type { Hue } from "./ui/hueStyles";
 
 const points: { icon: typeof Handshake; title: string; copy: string; hue: Hue }[] = [
   { icon: Handshake, title: "One point of contact", copy: "No more chasing five freelancers across four time zones. One team, always accountable.", hue: "teal" },
-  { icon: Receipt, title: "One invoice", copy: "Website, support, marketing, ops — billed simply, so your books stay as clean as your operations.", hue: "lime" },
-  { icon: Server, title: "Your operation, in systems built for you", copy: "Every workflow, agent, and dashboard is yours to run — engineered and owned by OG.", hue: "coral" },
-  { icon: LifeBuoy, title: "We maintain, you focus", copy: "Systems evolve as you grow. We monitor, patch, and improve — quietly, in the background.", hue: "violet" },
+  { icon: Receipt, title: "One invoice", copy: "Website, support, marketing, ops - billed simply, so your books stay as clean as your operations.", hue: "lime" },
+  { icon: Server, title: "Your operation, in systems built for you", copy: "Every workflow, agent, and dashboard is yours to run - engineered and owned by OG.", hue: "coral" },
+  { icon: LifeBuoy, title: "We maintain, you focus", copy: "Systems evolve as you grow. We monitor, patch, and improve - quietly, in the background.", hue: "violet" },
 ];
 
 export function WhyOG() {
@@ -61,7 +61,7 @@ export function WhyOG() {
             ))}
           </div>
           <p className="max-w-md text-center text-sm text-[var(--text-secondary)]">
-            Every system orbits your business — built, connected, and maintained by Omnistart Growth.
+            Every system orbits your business - built, connected, and maintained by Omnistart Growth.
           </p>
         </GlassCard>
       </Reveal>
