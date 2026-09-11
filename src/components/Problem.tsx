@@ -8,7 +8,7 @@ const pains: { number: string; icon: typeof Users; title: string; copy: string; 
     number: "01",
     icon: Users,
     title: "Too many vendors",
-    copy: "A web designer here, a marketing freelancer there, an app for support, a spreadsheet for everything else. Nothing talks to each other — and neither do the people running it.",
+    copy: "A web designer here, a marketing freelancer there, an app for support, a spreadsheet for everything else. Nothing talks to each other and neither do the people running it.",
     hue: "coral",
   },
   {
@@ -22,7 +22,7 @@ const pains: { number: string; icon: typeof Users; title: string; copy: string; 
     number: "03",
     icon: Cpu,
     title: "Tech overwhelm",
-    copy: "CRMs, automations, dashboards, AI tools — the landscape moves faster than you can learn it, let alone wire it together yourself.",
+    copy: "CRMs, automations, dashboards, AI tools - the landscape moves faster than you can learn it, let alone wire it together yourself.",
     hue: "teal",
   },
 ];
